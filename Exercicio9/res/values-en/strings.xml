@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercise 9</string>
+    <string name="codigo">Code</string>
+    <string-array name="codigos_array">
+        <item>100</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+    </string-array>
+    <string-array name="nomes_array">
+        <item>Hot Dog</item>
+        <item>Simple Bauru</item>
+        <item>Bauru with egg</item>
+        <item>Hamburger</item>
+        <item>Cheeseburger</item>
+        <item>Soda</item>
+    </string-array>
+    <string-array name="precos_array">
+        <item>1.50</item>
+        <item>2.00</item>
+        <item>2.30</item>
+        <item>2.00</item>
+        <item>2.40</item>
+        <item>1.50</item>
+    </string-array>
+    <string name="qtd">Amount</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpar">Clean</string>
+    <string name="total">Amount to be paid</string>
+    <string name="aviso_texto">Fill in the fields</string>
+
+</resources>

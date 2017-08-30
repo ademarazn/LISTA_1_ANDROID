@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercício 10</string>
+    <string name="operacao">Operação</string>
+    <string name="numero1">Primeiro número</string>
+    <string name="numero2">Segundo número</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="aviso">Aviso</string>
+    <string name="aviso_texto">Preencha os campos</string>
+    <string name="valor_errado">Valor errado. Programa encerrado sem cálculos</string>
+    <string name="soma">Soma</string>
+    <string name="subtracao">Subtração</string>
+    <string name="multiplicacao">Multiplicação</string>
+    <string name="divisao">Divisão</string>
+    <string name="media">Média</string>
+
+</resources>
