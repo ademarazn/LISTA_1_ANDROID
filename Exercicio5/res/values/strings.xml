@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercício 5</string>
+    <string name="codigo">Código</string>
+    <string name="salarioBase">Salário base</string>
+    <string name="tempo">Tempo de serviço</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="aviso_texto">Preencha os campos</string>
+    <string name="aviso">Aviso</string>
+    <string name="anos">ano(s)</string>
+    <string name="imposto">Imposto</string>
+    <string name="gratificacao">Gratificação</string>
+    <string name="salarioLiq">Salário líquido</string>
+    <string name="categoria">Categoria</string>
+
+</resources>

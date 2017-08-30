@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercise 6</string>
+    <string name="distTotal">Total distance</string>
+    <string name="litros">Liters of fuel</string>
+    <string name="consumo">Average consumption</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpar">Clean</string>
+    <string name="aviso_texto">Fill in the fields</string>
+    <string name="aviso">Notice</string>
+
+</resources>
