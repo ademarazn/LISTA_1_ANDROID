@@ -1,0 +1,73 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ademar.exercicio8.MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:orientation="vertical"
+        tools:ignore="UselessParent" >
+
+        <TextView
+            android:id="@+id/txtTextView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:labelFor="@+id/salarioMin"
+            android:text="@string/salarioMin" />
+
+        <EditText
+            android:id="@+id/salarioMin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal" >
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:id="@+id/txtTextView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:labelFor="@+id/salario"
+            android:text="@string/salario" />
+
+        <EditText
+            android:id="@+id/salario"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical"
+        tools:ignore="UselessParent" >
+
+        <Button
+            android:id="@+id/btnCalcular"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:onClick="calcular"
+            android:text="@string/calcular" />
+
+        <Button
+            android:id="@+id/btnLimpar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:onClick="limpar"
+            android:text="@string/limpar" />
+    </LinearLayout>
+
+</FrameLayout>

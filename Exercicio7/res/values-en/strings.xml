@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercise 7</string>
+    <string name="numero">Number</string>
+    <string name="aviso_texto">Enter a number</string>
+    <string name="tabuada">Multiplication table</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpar">Clean</string>
+
+</resources>

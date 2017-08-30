@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercise 8</string>
+    <string name="salarioMin">Minimum wage</string>
+    <string name="salario">Salary</string>
+    <string name="qtd">Quantity of minimum wage</string>
+    <string name="aviso_texto">Fill in the fields</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpar">Clean</string>
+
+</resources>
