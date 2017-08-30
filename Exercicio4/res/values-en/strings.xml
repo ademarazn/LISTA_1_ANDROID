@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercise 4</string>
+    <string name="numId">Identification number</string>
+    <string name="nota1">Grade 1</string>
+    <string name="nota2">Grade 2</string>
+    <string name="nota3">Grade 3</string>
+    <string name="me">Average of the exercises</string>
+    <string name="ma">Average performance</string>
+    <string name="conceito">Concept</string>
+    <string name="situacao">Situation</string>
+    <string name="aprovado">Approved</string>
+    <string name="reprovado">Disapproved</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpar">Clean</string>
+    <string name="aviso_titulo">Notice</string>
+    <string name="aviso">Fill in the fields</string>
+
+</resources>

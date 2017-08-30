@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercício 4</string>
+    <string name="numId">Número de identificação</string>
+    <string name="nota1">Nota 1</string>
+    <string name="nota2">Nota 2</string>
+    <string name="nota3">Nota 3</string>
+    <string name="me">Média dos exercícios</string>
+    <string name="ma">Média de aproveitamento</string>
+    <string name="conceito">Conceito</string>
+    <string name="situacao">Situação</string>
+    <string name="aprovado">Aprovado</string>
+    <string name="reprovado">Reprovado</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="aviso_titulo">Aviso</string>
+    <string name="aviso">Preencha os campos</string>
+
+</resources>
