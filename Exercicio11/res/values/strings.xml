@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercício 11</string>
+    <string name="planeta">Planeta</string>
+
+    <string-array name="planetas_array">
+        <item>1 - Mercúrio</item>
+        <item>2 - Vênus</item>
+        <item>3 - Marte</item>
+        <item>4 - Júpter</item>
+        <item>5 - Saturno</item>
+        <item>6 - Urano</item>
+    </string-array>
+
+    <string name="peso">Peso na Terra</string>
+    <string name="aviso">Peso no planeta</string>
+    <string name="aviso_texto">Preencha os campos</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+
+</resources>

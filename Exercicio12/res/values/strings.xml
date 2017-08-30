@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercício 12</string>
+    <string name="salario">Salário</string>
+    <string name="cargo">Cargo</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="salario_novo">Salário novo</string>
+    <string name="aviso">Preencha os campos</string>
+    <string name="titulo">Aviso</string>
+    <string name="gerente">Gerente</string>
+    <string name="tecnico">Técnico</string>
+
+</resources>
