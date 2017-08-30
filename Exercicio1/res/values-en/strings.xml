@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercise 1</string>
+    <string name="saldo_medio">Balance amount</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpar">Clean</string>
+    <string name="credito">Credit</string>
+    <string name="aviso">Type the balance amount</string>
+    <string name="aviso_titulo">Notice</string>
+
+</resources>

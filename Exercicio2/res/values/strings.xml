@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercício 2</string>
+    <string name="codigo">Código</string>
+
+    <string-array name="codigos_array">
+        <item>1001</item>
+        <item>1324</item>
+        <item>6548</item>
+        <item>1987</item>
+        <item>7623</item>
+    </string-array>
+
+    <string name="qtd">Quantidade</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="aviso">Preencha os campos</string>
+
+</resources>

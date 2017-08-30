@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercício 1</string>
+    <string name="saldo_medio">Saldo médio</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="credito">Crédito</string>
+    <string name="aviso">Digite o saldo médio</string>
+    <string name="aviso_titulo">Aviso</string>
+
+</resources>
